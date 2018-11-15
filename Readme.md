@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/sl/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/sl/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/sl/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/sl/MainPage.xaml.vb))
+<!-- default file list end -->
 # DXCharts Getting Started - Lesson 1 - Create a Simple Chart
 
 
